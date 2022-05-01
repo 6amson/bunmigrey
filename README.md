@@ -2,4 +2,4 @@
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on amazing projects
-- 📫 How to reach me bunmigrey@icloud.com
+- 📫 How to reach me damilolasamson.ds@gmail.com
